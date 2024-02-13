@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 
-I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
+I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science from [X University](https://x.edu.bd/). I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FumaPraQue" alt="FumaPraQue" /> </p>
 
@@ -12,7 +12,7 @@ I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science 
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FumaPraQue&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcelo Ferreira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FumaPraQue&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -29,8 +29,7 @@ I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white ">
 </span>
 
 <h4> Frameworks </h4>
