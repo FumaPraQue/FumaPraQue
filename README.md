@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 
-I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science from [X University](https://x.edu.bd/). I am a tech enthusiast & a self learner.
+I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FumaPraQue" alt="FumaPraQue" /> </p>
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🥅 2024 Goals: To be profficient in MERN Stack :|
+- 🌱 I’m currently learning ** C++, Vue and React **
+- 👯 I’m looking to collaborate on C# Development Related Projects **
+- 🤔 I’m looking for help with _ **
+- 🥅 2024 Goals: Be finally able to get into the job market :)
 - ⚡ Fun fact: I love playing video games.
 
 <p align="center">
@@ -20,7 +20,7 @@ I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science 
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FumaPraQue&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FumaPraQue&theme=great-gatsby&layout=compact)](https://github.com/FumaPraQue)
 </br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
@@ -77,4 +77,4 @@ I am Marcelo Ferreira, I am currently pursuing my Bachelors in computer science 
 -----
 Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
 
-Last Edited on: 02/12/2024
+Last Edited on: 02/14/2024
