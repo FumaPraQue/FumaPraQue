@@ -2,7 +2,7 @@
 
 I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelo-fuma" alt="marcelo-fuma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelo-fervi" alt="marcelo-fervi" /> </p>
 
 - 🌱 I’m currently learning ** C++, Vue and React **
 - 👯 I’m looking to collaborate on C# Development Related Projects **
@@ -16,9 +16,9 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=marcelo-fuma&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-fuma&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-fuma&theme=great-gatsby&layout=compact)](https://github.com/marcelo-fuma)
+![trophy](https://github-profile-trophy.vercel.app/?username=marcelo-fervi&row=1&no-bg=true)
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-fervi&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-fervi&theme=great-gatsby&layout=compact)](https://github.com/marcelo-fervi)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
@@ -73,8 +73,8 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://fb.com/placeholder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="placeholder" height="30" width="40" /></a>
 <a href="https://instagram.com/marcelo.fuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelo.fuma" height="30" width="40" /></a>
-<a href="https://github.com/marcelo-fuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marcelo-fuma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/marcelo-ferreira-0a86a02b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelo-fuma" height="30" width="40" /></a>
+<a href="https://github.com/marcelo-fervi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marcelo-fervi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcelo-ferreira-0a86a02b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelo-ferreira-0a86a02b4" height="30" width="40" /></a>
     
 <br>
 
