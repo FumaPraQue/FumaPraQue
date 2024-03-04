@@ -74,7 +74,7 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 <a href="https://fb.com/placeholder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="placeholder" height="30" width="40" /></a>
 <a href="https://instagram.com/marcelo.fuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelo.fuma" height="30" width="40" /></a>
 <a href="https://github.com/marcelo-fervi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marcelo-fervi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/marcelo-ferreira-0a86a02b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelo-ferreira-0a86a02b4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcelo-fervi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelo-fervi" height="30" width="40" /></a>
     
 <br>
 
