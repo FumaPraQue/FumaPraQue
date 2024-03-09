@@ -12,7 +12,7 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcelo Ferreira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-fuma&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcelo Ferreira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-fervi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -82,4 +82,4 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 -----
 Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
 
-Last Edited on: 03/04/2024
+Last Edited on: 03/09/2024
