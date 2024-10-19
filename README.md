@@ -4,11 +4,10 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelo-fervi" alt="marcelo-fervi" /> </p>
 
-- 🌱 I’m currently learning ** NestJS **
+- 🌱 I’m currently learning ** .NET Core **
 - 👯 I’m looking to collaborate on C# and or NestJS Development Related Projects **
-- 🤔 I’m looking for help with _ **
 - 🥅 2024 Goals: Be finally able to get into the job market :)
-- ⚡ Fun fact: I love playing video games and fixing bugs.
+- ⚡ Fun fact: I love playing video games, fixing bugs and improving codes!
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
@@ -82,4 +81,4 @@ I am Marcelo Ferreira, I am a tech enthusiast & a self learner.
 -----
 Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
 
-Last Edited on: 04/20/2024 (MM/DD/YYYY)
+Last Edited on: 10/19/2024 (MM/DD/YYYY)
